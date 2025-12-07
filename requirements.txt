@@ -1,0 +1,11 @@
+huggingface_hub==0.33.0
+numpy==2.3.5
+opencv_contrib_python==4.11.0.86
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+peft==0.12.0
+Pillow==12.0.0
+Requests==2.32.5
+torch==2.7.1
+tqdm==4.65.2
+transformers==4.52.4
