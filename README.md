@@ -1,4 +1,4 @@
-# AttentionLens-LVLM
+# 🔥AttentionLens-LVLM
 
 A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing attention flow in Large Vision-Language Models (LVLMs). It renders token-to-token attention maps, cross-modal attention paths, and layer–head attention dynamics, helping researchers diagnose abnormal attention behaviors. The currently supported LVLMs include *LLaVA-1.5-7B*.
 
