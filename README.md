@@ -29,12 +29,12 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
 
 3. For usage examples, please refer to `AttentionLens-LVLM/llava1.5/llava_vis.ipynb`.
 
-## Visualization at a Glance
+## Visualization at a Glance (viridis)
 
 ***Average Attention Map:***
 
 <p float="left">
-    <img src="asset/Attention%20Map.png" width="100%" />
+    <img src="asset/Attention%20Map%20Combined.png" width="100%" />
 </p>
 
 ***Layer-wise Attention Maps:***
@@ -68,7 +68,9 @@ A lightweight and extensible toolkit **AttentionLens-LVLM** for visualizing atte
 ***Semantic Evolution Visualization:***
 
 <p float="left">
-    <img src="asset/Semantic%20Evolution%20Visualization.png" width="100%" />
+    <img src="asset/evo1.png" width="100%" />
+    <img src="asset/evo2.png" width="100%" />
+    <img src="asset/evo3.png" width="100%" />
 </p>
 
 
